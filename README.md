@@ -1,119 +1,202 @@
 <div align="center">
 
-<img src="./assets/berserk_full_scene_loop.gif" width="100%" alt="Pixel Night Banner"/>
+<img src="./assets/berserk_full_scene_loop.gif" width="80%" alt="Pixel Banner">
 
-<br><br>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=GOKUL%20S&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERNStack%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Explorer;Hackathon+Finalist;Co-Founder+of+Luna;Always+Building+Something+Cool"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=6,11,20,29&text=GOKUL%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=MERN%20Stack%20Developer&descSize=16&descAlignY=58"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=gokul-s-28&label=Profile%20Views&color=00FFFF&style=flat-square"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=GOKUL%20S&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERNStack%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+---
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=gokul-s-28">
-    <img src="https://komarev.com/ghpvc/?username=gokul-s-28&label=Profile%20views&color=00FFFF&style=flat-square" alt="gokul-s-28's profile views" />
-  </a>
-</p>
+# 🏆 Achievements
 
-## 📌 About Me
+- 🥇 AI Ignite 2026 Finalist (SMVEC)
+- 🥇 Hack India Spark 3 Hackathon 2026 Finalist (MEC)
+- 💼 Data Science Intern @ OneYes Infotech Solutions
+- 🚀 Co-Founder of Luna (Part of Taxina)
+
+---
+
+# 📌 About Me
+
 - 🚀 Building real-world software solutions
 - 💻 Passionate about Full Stack Development
 - 🤖 Exploring Artificial Intelligence and Data Science
-- 📚 Constantly learning and improving problem-solving skills
+- 📚 Constantly improving problem-solving skills
 - 🌱 Turning innovative ideas into impactful products
 - 🎯 Preparing for top software engineering opportunities
 
+---
 
-## 🧠 My Focus Areas
-- Web Development
-- App Development
-- AI/ML Research
+# 🧠 Focus Areas
 
+- 🌐 Web Development
+- 📱 App Development
+- 🤖 AI / Machine Learning
+- 📊 Data Science
+- ⚡ Backend Engineering
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/gokul-s-28">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gokul-s-28&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="gokul-s-28's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=gokul-s-28&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="gokul-s-28's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=gokul-s-28&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GOKUL S's GitHub Trophies" />
-</p>
+---
 
+# 📊 GitHub Analytics
 
-## 🛠️ Languages & Tools
+<div align="center">
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gokul-s-28&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</p>
+<img width="49%" src="https://streak-stats.demolab.com?user=gokul-s-28&theme=tokyonight&hide_border=true"/>
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+</div>
 
-</p>
+<br>
 
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+<div align="center">
 
-</p>
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=gokul-s-28&theme=tokyo-night&hide_border=true"/>
 
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
+</div>
 
-</p>
+---
 
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
+# 🏅 GitHub Trophies
 
-</p>
+<div align="center">
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+<img src="https://github-profile-trophy.vercel.app/?username=gokul-s-28&theme=tokyonight&row=1&column=6&no-frame=true"/>
 
-</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/gokul-s-28">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gokul-s-28&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+---
 
-![Top language](https://stats.pphat.top/languages?username=gokul-s-28)
-<br/>
+# 🛠 Tech Stack
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/gokulsuresh11/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://wa.me/9108870458262">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:gokulsuresh2808@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-</p>
+## Programming Languages
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
+<div align="center">
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python"/>
 
+</div>
+
+## Frontend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+
+</div>
+
+## Backend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+</div>
+
+## Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+</div>
+
+## Tools & Cloud
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,aws"/>
+
+</div>
+
+---
+
+# 📈 Most Used Languages
+
+<div align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-s-28&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|-----------|------------|
+| 🎯 IntentOS | AI-powered study workspace |
+| 🩺 Symptom Triage Navigator | Healthcare guidance platform |
+| 🧠 Attention Blackhole | Focus monitor web app |
+| 🗺️ GeoPlanner AI | Intelligent location planner |
+| 🌸 Sakura Cycle | Menstrual health awareness platform |
+| 📚 Java FSE Solutions | Java practice repository |
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gokulsuresh11/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
+
+<a href="mailto:gokulsuresh2808@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/gokul-s-28/gokul-s-28/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 🎮 Space Shooter Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif"/>
+
+</div>
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+```text
+"Dream big. Start small. Build consistently."
+
+Every masterpiece begins with a single line of code.
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+
+</div>
